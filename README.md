@@ -194,14 +194,14 @@ Thanks to  for this template !
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [repo-size-shield]: https://img.shields.io/github/languages/code-size/workshop-tk/website-backend-workshop.tk?style=for-the-badge
-[deployments-production-shield]: https://img.shields.io/github/deployments/workshop-tk/website-backend-workshop.tk/production?label=Production&style=for-the-badge
-[workflow-cd-status-shield]: https://img.shields.io/github/workflow/status/workshop-tk/website-backend-workshop.tk/ci-cd?style=for-the-badge
+[deployments-production-shield]: https://img.shields.io/github/deployments/workshop-tk/website-backend-workshop.tk/production?label=production&style=for-the-badge
+[workflow-cd-status-shield]: https://img.shields.io/github/workflow/status/workshop-tk/website-backend-workshop.tk/Continuous%20Delivery?style=for-the-badge
 [coverage-status-shield]: https://sonarcloud.io/api/project_badges/measure?project=workshop-tk_website-backend-workshop.tk&metric=coverage
 [coverage-status-url]: https://sonarcloud.io/dashboard?id=workshop-tk_website-backend-workshop.tk&style=for-the-badge
 [maintained-shield]: https://img.shields.io/maintenance/yes/2021?style=for-the-badge
 
 [deployments-develop-shield]: https://img.shields.io/github/deployments/workshop-tk/website-backend-workshop.tk/developement?label=Developement&style=for-the-badge
-[workflow-ci-status-shield]: https://img.shields.io/github/workflow/status/workshop-tk/website-backend-workshop.tk/dev-testing?style=for-the-badge
+[workflow-ci-status-shield]: https://img.shields.io/github/workflow/status/workshop-tk/website-backend-workshop.tk/Continuous%20Integration?style=for-the-badge
 
 [contributors-shield]: https://img.shields.io/github/contributors/workshop-tk/website-backend-workshop.tk.svg?style=for-the-badge
 [contributors-url]: https://github.com/workshop-tk/website-backend-workshop.tk/graphs/contributors
